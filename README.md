@@ -1,3 +1,4 @@
+![Habit-tracker jpg](https://github.com/user-attachments/assets/3cacf883-f12e-4f22-b1a2-12c4720c0cc3)
 # Habit-tracker
 <!DOCTYPE html>
 <html lang="en">
